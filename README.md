@@ -1,0 +1,1 @@
+This is a Python project that analyzes sales data from a Diwali sales event. The project utilizes various Python libraries, including Pandas, NumPy, and Matplotlib, to perform data cleaning, exploratory data analysis, and data visualization
